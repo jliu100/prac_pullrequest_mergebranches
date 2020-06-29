@@ -4,5 +4,6 @@ yellow
 pink
 orange
 red
+Indigo
 unicorn
 Unicorn
