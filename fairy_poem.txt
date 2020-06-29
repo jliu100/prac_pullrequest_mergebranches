@@ -4,6 +4,6 @@ yellow
 pink
 orange
 red
-uniio
+unicorn
 Unicorn
 Add Pony
